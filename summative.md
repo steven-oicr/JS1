@@ -2,7 +2,7 @@
 
 Update this file via pull request!
 
-Name: Jeremy Sun
+Name: Steven Wang
 
 Program: Computer Science
 
